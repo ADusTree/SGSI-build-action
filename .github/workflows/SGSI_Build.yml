@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
-  ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Generic'
+  ROM_URL: 'https://wlansysuptxdl.vivo.com.cn/upgrade/recovery/recoveryFiles/2021050620441804bf91db7204400d4dadadebeb931608.zip'
+  ZIP_NAME: '2021050620441804bf91db7204400d4dadadebeb931608.zip'
+  OS_TYPE: 'vivo'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
-  VERSION: '12'
+  VERSION: '10'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
